@@ -14,3 +14,5 @@ Steps:
 5- Create Rolebinding (Example: user1-access-bind)
 
 6- Set Limitrange for resource (Cpu,Memory) control
+
+**Note:** For connect to k8s cluster user config file that created by create-k8s-context.sh
